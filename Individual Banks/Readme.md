@@ -1,0 +1,1 @@
+These are individual banks of **New Starlight Dream Lite** that keeping updates by realtime. Filesize of each bank is up to 50MB.
