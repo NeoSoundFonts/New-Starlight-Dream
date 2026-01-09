@@ -2,6 +2,8 @@
 新星光之梦。将各种自由文化音色库混合而成的通用音色库。<br>
 A soundbank that made for Free Cultral Works. Each sample set uses different libre sources.
 
+[源文件<br>Source Files](https://github.com/NeoSoundFonts/NSD-Source-Files)
+
 [下载地址<br>Download Link](https://archive.wohlsoft.ru/_User/Yingchun%20Soul/Sample%20Libraries/New%20Starlight%20Dream.sf2)
 
 本仓库提供精简版，可通过Clone/Download Zip下载。<br>
